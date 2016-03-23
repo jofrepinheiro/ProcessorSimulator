@@ -1,0 +1,5 @@
+C:\Users\Jofre\Dropbox\Visual Studio\Arquitetura\Processador\bin\Release\Processador.exe.config
+C:\Users\Jofre\Dropbox\Visual Studio\Arquitetura\Processador\bin\Release\Processador.exe
+C:\Users\Jofre\Dropbox\Visual Studio\Arquitetura\Processador\bin\Release\Processador.pdb
+C:\Users\Jofre\Dropbox\Visual Studio\Arquitetura\Processador\obj\Release\Processador.exe
+C:\Users\Jofre\Dropbox\Visual Studio\Arquitetura\Processador\obj\Release\Processador.pdb

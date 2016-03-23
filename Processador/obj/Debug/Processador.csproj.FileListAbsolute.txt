@@ -1,0 +1,12 @@
+C:\Users\Jofre\Dropbox\Visual Studio\Arquitetura\Processador\bin\Debug\Processador.exe.config
+C:\Users\Jofre\Dropbox\Visual Studio\Arquitetura\Processador\obj\Debug\Processador.csprojResolveAssemblyReference.cache
+C:\Users\Jofre\Dropbox\Visual Studio\Arquitetura\Processador\bin\Debug\Processador.exe
+C:\Users\Jofre\Dropbox\Visual Studio\Arquitetura\Processador\bin\Debug\Processador.pdb
+C:\Users\Jofre\Dropbox\Visual Studio\Arquitetura\Processador\obj\Debug\Processador.exe
+C:\Users\Jofre\Dropbox\Visual Studio\Arquitetura\Processador\obj\Debug\Processador.pdb
+C:\Users\Jofre\Dropbox\Workspaces\Visual Studio\Arquitetura\Processador\bin\Debug\Processador.exe.config
+C:\Users\Jofre\Dropbox\Workspaces\Visual Studio\Arquitetura\Processador\obj\Debug\Processador.exe
+C:\Users\Jofre\Dropbox\Workspaces\Visual Studio\Arquitetura\Processador\obj\Debug\Processador.csprojResolveAssemblyReference.cache
+C:\Users\Jofre\Dropbox\Workspaces\Visual Studio\Arquitetura\Processador\bin\Debug\Processador.exe
+C:\Users\Jofre\Dropbox\Workspaces\Visual Studio\Arquitetura\Processador\bin\Debug\Processador.pdb
+C:\Users\Jofre\Dropbox\Workspaces\Visual Studio\Arquitetura\Processador\obj\Debug\Processador.pdb
